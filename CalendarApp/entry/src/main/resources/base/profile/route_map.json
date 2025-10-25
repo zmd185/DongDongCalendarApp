@@ -1,0 +1,28 @@
+{
+  "routerMap": [
+    {
+      "name": "EventLayout",
+      "pageSourceFile": "src/main/ets/pages/EventLayout.ets",
+      "buildFunction": "EventLayoutBuilder",
+      "data": {
+        "description": "EventLayout"
+      }
+    },
+    {
+      "name": "EventEditor",
+      "pageSourceFile": "src/main/ets/pages/EventEditor.ets",
+      "buildFunction": "EventEditorBuilder",
+      "data": {
+        "description": "EventEditor"
+      }
+    },
+    {
+      "name": "View",
+      "pageSourceFile": "src/main/ets/pages/View.ets",
+      "buildFunction": "ViewBuilder",
+      "data": {
+        "description": "View"
+      }
+    }
+  ]
+}

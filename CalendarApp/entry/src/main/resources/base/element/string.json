@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "publish_agent_reminder",
+      "value": "用于发送系统通知提醒用户日程事件"
+    },
+    {
+      "name": "reason_internet",
+      "value": "需要访问网络以订阅或同步日程"
+    },
+    {
+      "name": "reason_read_calendar",
+      "value": "需要读取日历以展示您的日程"
+    },
+    {
+      "name": "reason_write_calendar",
+      "value": "需要写入日历以添加或修改您的日程"
+    },
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "东东日历"
+    }
+  ]
+}
